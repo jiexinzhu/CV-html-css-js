@@ -1,0 +1,113 @@
+body {
+	background: #ddd;
+	font-family: 'Roboto', sans-serif;
+}
+
+.session-padding {
+	padding: 0 46px;
+}
+
+.container {
+	background: #fff;
+	margin: auto;
+	width: 800px;
+	font-size: 14px;
+	line-height: 22px;
+	padding-bottom: 32px;
+}
+
+.language-buttons {
+	padding: 8px 0px;
+	background: #ddd;
+	text-align: end;
+}
+
+.language-buttons button {
+	background: none;
+	border: none;
+	color: #465c7a;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 6px;
+}
+
+.language-buttons button:hover {
+	cursor: pointer;
+}
+
+.button_image {
+	width: 60px;
+}
+
+.header .title {
+	width: 210px;
+    text-align: center;
+    padding: 16px;
+    background: #465c7a;
+    color: #fff;
+    font-size: 18px;
+    font-style: italic;
+    margin: 0 0 9px 46px;
+}
+
+.contact {
+	width: calc(100% - 92px);
+    display: flex;
+    background: #eeeeee;
+}
+
+.contact .left-column {
+	width: 80%;
+}
+
+.contact .right-column {
+	width: 20%;
+}
+
+.key-value-box {
+	width: 100%;
+	display: flex;
+	margin: 8px 0;
+}
+
+.key-value-box .key {
+	width: 30%;
+}
+
+.key-value-box .value {
+	width: 70%;
+}
+
+.description {
+	color: #5d5d5d;
+    font-size: 13px;
+}
+
+.portrait {
+	width: 150px;
+    height: 200px;
+    overflow: hidden;
+	margin-top: -70px;
+}
+
+.portrait img {
+	height: 100%;
+    margin-left: -30px;
+}
+
+ul {
+	padding-inline-start: 16px;
+    list-style-type: disc;
+	margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.a4-page {
+	width: 210mm;
+	height: 297mm;
+	margin: 0 auto 20px;
+	padding: 20mm;
+	background: white;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+	box-sizing: border-box;
+}
