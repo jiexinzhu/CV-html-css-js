@@ -3,6 +3,8 @@ const german = {
 	PERSONAL_DATA: "Persönliche Daten",
 	NAME_KEY: "Name",
 	NAME_VALUE: "Jiexin Zhu",
+	WEBSITE_KEY: "Website",
+	WEBSITE_VALUE: "www.zhujiexin.com",
 	SHORT_PROFILE: "Kurzprofil",
 	SHORT_PROFILE_1: "Zukunftsorientierte Quereinsteigerin mit starkem Interesse an Anwendungsentwicklung sowie fundierter Erfahrung in Kommunikation, Analyse und Problemlösung",
 	SHORT_PROFILE_2: "Derzeit in Umschulung zur Fachinformatikerin für Anwendungsentwicklung mit Schwerpunkt auf Webentwicklung und Datenbanken",
