@@ -7,7 +7,7 @@ const english = {
   WEBSITE_VALUE: "www.zhujiexin.com",
   GITHUB_KEY: "Github",
   GITHUB_VALUE: "github.com/jiexinzhu",
-  LINKEDIN_KEY: "LinkIn",
+  LINKEDIN_KEY: "LinkedIn",
   LINKEDIN_VALUE: "linkedin.com/in/jiexinzhu",
   SHORT_PROFILE: "Short Profile",
   SHORT_PROFILE_1: "Future-oriented career changer with a strong interest in application development and solid experience in communication, analysis, and problem-solving.",
